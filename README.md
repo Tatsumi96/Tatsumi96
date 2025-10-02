@@ -21,4 +21,4 @@
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=tatsumi96&show_icons=true&theme=dracula)
 
 
-<p><img src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img></p>
+<p align="center"><img src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img></p>
