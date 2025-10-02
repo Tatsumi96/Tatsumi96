@@ -20,4 +20,4 @@
 </p>
 
 
-<p align="center"><img width="300" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img></p>
+<p align="center"><img width="50" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img></p>
