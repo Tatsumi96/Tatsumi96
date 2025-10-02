@@ -17,5 +17,5 @@
 
 <p align="center">
   <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api?username=Tatsumi96&hide_border=true&show_icons=true&theme=dracula" alt="Tatsumi96's github stats"></a>
-  <img width="110" margin="20px" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img>
+  <img width="110" padding="20px" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img>
 </p>
