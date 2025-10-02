@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Santatra</h3>
+<h3 align="center">Hi 👋, I'm Santatra <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 <h4 align="center">A passionate developer from Madagascar</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
