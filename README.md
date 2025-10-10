@@ -19,4 +19,4 @@
   <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&theme=dracula&hide_border=true" alt="https://github.com/Tatsumi96/github-readme-stats"></a>
 </p>
 
-  <img width="200" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img>
+ <p align="center"><img width="200" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img></p>
