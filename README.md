@@ -14,11 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&size_weight=0&count_weight=1&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api?username=Tatsumi96&hide_border=true&show_icons=true&theme=dracula" alt="Tatsumi96's github stats"></a>
-  <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&size_weight=0&count_weight=1&theme=dracula&hide_border=true"
-                                           alt="https://github.com/Tatsumi96/github-readme-stats"></a>
+  <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&size_weight=0&count_weight=1&theme=dracula&hide_border=true" alt="https://github.com/Tatsumi96/github-readme-stats"></a>
   <img width="110" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img>
 </p>
