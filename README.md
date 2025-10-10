@@ -17,5 +17,6 @@
 
 <p align="center">
   <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api?username=Tatsumi96&hide_border=true&show_icons=true&theme=dracula" alt="Tatsumi96's github stats"></a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   <img width="110" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img>
 </p>
