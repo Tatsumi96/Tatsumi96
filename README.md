@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api?username=Tatsumi96&hide_border=true&show_icons=true&theme=dracula" alt="Tatsumi96's github stats"></a>
-  <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&theme=dracula&hide_border=true" alt="https://github.com/Tatsumi96/github-readme-stats"></a>
+  <a  width="200" height="200"  href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&theme=dracula&hide_border=true" alt="https://github.com/Tatsumi96/github-readme-stats"></a>
 </p>
 
- <p align="center"><img width="200" height="200" src="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img></p>
+ <p align="center"><imgsrc="https://github.com/Tatsumi96/Tatsumi96/blob/main/hollow-knight-153500.png?raw=true" ></img></p>
