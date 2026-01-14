@@ -18,9 +18,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=ffffff)
 
-<p align="center">
-  <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api?username=Tatsumi96&hide_border=true&show_icons=true&theme=dracula" alt="Tatsumi96's github stats"></a>
-  <a href="https://github.com/Tatsumi96"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&theme=dracula&hide_border=true" alt="Top languages"></a>
-</p>
+
 
 <p align="center"><img src="https://github.com/Tatsumi96/Tatsumi96/blob/main/Elden%20Ring%20pixel%20art.jpg" ></p>
