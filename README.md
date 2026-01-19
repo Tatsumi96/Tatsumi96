@@ -26,8 +26,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tatsumi96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-  <div align="center">
+</p>
       [![committers.top badge](https://user-badge.committers.top/madagascar/Tatsumi96.svg)](https://user-badge.committers.top/madagascar/Tatsumi96)
     [![committers.top badge](https://org-badge.committers.top/madagascar/Tatsumi96.svg)](https://org-badge.committers.top/madagascar/Tatsumi96)
-  </div>
-</p>
