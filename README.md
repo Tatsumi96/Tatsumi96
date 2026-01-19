@@ -18,8 +18,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![committers.top badge](https://user-badge.committers.top/madagascar/Tatsumi96.svg)
-![committers.top badge](https://user-badge.committers.top/madagascar_public/Tatsumi96.svg)](https://user-badge.committers.top/madagascar_public/Tatsumi96)
-
+![committers.top badge](https://user-badge.committers.top/madagascar_public/Tatsumi96.svg)
 
 
 <p align="center"><img src="https://github.com/Tatsumi96/Tatsumi96/blob/main/Elden%20Ring%20pixel%20art.jpg" ></p>
