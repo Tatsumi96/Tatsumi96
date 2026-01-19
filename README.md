@@ -21,3 +21,9 @@
 
 
 <p align="center"><img src="https://github.com/Tatsumi96/Tatsumi96/blob/main/Elden%20Ring%20pixel%20art.jpg" ></p>
+<p align="center">
+<a href="https://github.com/Dera2Salles">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tatsumi96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tatsumi96&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
